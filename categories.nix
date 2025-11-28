@@ -41,7 +41,7 @@ in
         nixd
         astro-language-server
         bash-language-server
-        dockerfile-language-server-nodejs
+        dockerfile-language-server
         vscode-langservers-extracted
         harper
         ltex-ls-plus
@@ -136,7 +136,7 @@ in
         neogit
         octo-nvim
         grapple-nvim
-        # oil-nvim
+        oil-nvim
         yazi-nvim
         comment-nvim
         nvim-ts-context-commentstring
@@ -144,7 +144,7 @@ in
         mini-ai
         mini-animate
         mini-basics
-        # mini-files
+        mini-files
         mini-icons
         mini-move
         mini-operators
